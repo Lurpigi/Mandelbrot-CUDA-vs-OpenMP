@@ -11,7 +11,7 @@ Additionally, the file **Frattini_Timossi.pdf** contains the complete report, wh
 ```
 .
 ├── CUDA
-│   ├── CUDA_Mandelbrot.ipynb   # Jupyter Notebook with CUDA implementation
+│   ├── CUDA_Mandelbrot.ipynb   # Jupyter Notebook for Colab
 │   ├── devicequery.cu          # CUDA device query script
 │   ├── helper_cuda.h           # CUDA helper functions
 │   ├── helper_string.h         # String manipulation utilities
